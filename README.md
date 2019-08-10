@@ -1,2 +1,2 @@
 # Algorithmic-Problems
-A heap of algorithm implementations and algorithmic problems.
+Most of the algorithmic problems I have been tackling over the years. The levels of difficulty vary and some may be incomplete.
